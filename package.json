@@ -34,9 +34,9 @@
     "reselect": "^3.0.1"
   },
   "peerDependencies": {
-    "react": "16.x",
-    "react-dom": "^16.2.0",
-    "react-virtualized": "^9.13.0"
+    "react": "18.x",
+    "react-dom": "^18.2.0",
+    "react-virtualized": "^9.22.0"
   },
   "devDependencies": {
     "jest": "^24.8.0",
